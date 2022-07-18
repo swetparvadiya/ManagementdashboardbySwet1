@@ -1,0 +1,120 @@
+.logregforms {
+  width: 412px;
+  margin: 10vh auto;
+  background-color: #f3f3f3; 
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  border-radius: 6px;
+}
+h1,p{
+  text-align: center;
+}
+h1,p{
+  font-weight: bold;
+}
+.h3{
+  font-weight: bold !important;
+}
+.f{
+  font-size: 22px;
+}
+button i{
+  margin-right: 2px;
+}
+
+.leg{
+  margin-left: 600px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 600px;
+  margin-top: 5px;
+}
+.bu{
+  display: flex;
+  flex-direction: column;
+  margin-left: 680px;
+  margin-right: 680px;
+}
+.by{
+  margin-left: 750px;
+  margin-top: 19px;
+}
+.logregforms .form {
+  width: 100%;
+  max-width: 410px;
+  padding: 15px;
+  margin-left: 714px;  
+}
+.logregforms .formcontrol {
+  margin:auto;
+  position: relative;
+  box-sizing: border-box;
+  height: auto;
+  padding: 10px;
+  font-size: 16px;
+  
+}
+
+.logregforms .formsignin input[type="email"] {
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.logregforms .formsignin input[type="password"] {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin:  5px 0;
+}
+
+.logregforms .sociallogin {
+  width: 390px;
+  margin: 0 auto;
+  margin-bottom: 14px;
+}
+.logregforms .socialbtn {
+  font-weight: 100;
+  color: white;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.logregforms a {
+  display: block;
+  padding-top: 10px;
+  color: lightseagreen;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.logregform .lines {
+  width: 200px;
+  border: 1px solid red;
+}
+
+.logregforms button[type="submit"] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px auto;
+}
+.google{
+margin-left: auto;
+margin-right: auto;
+}
+
+.logregforms .googlebtn {
+  background-color: #df4b3b;
+}
+
+.logregforms .formsignup .socialbtn {
+  width: 210px;
+}
+
+.logregforms .formsignup input {
+  margin-bottom: 2px;
+}
+
+.formsignup .sociallogin {
+  width: 100% !important;
+  margin: 0 auto;
+}

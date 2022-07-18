@@ -1,0 +1,29 @@
+
+.userAddress{
+    margin-left: 840px;
+    margin-top: -15px;
+}
+.profileimage{
+    margin-left: 1140px;
+    margin-top: -60px;
+    border-radius: 70%;
+    width: 50px;
+}
+.dropdown{
+    margin-left: 1210px;
+    margin-top: -100px;
+
+}
+.border{
+    border-bottom: 1px solid #dbdbdb;
+    margin-top: -19px;
+    width: 1315px;
+    margin-left: -68px;
+}
+.nav{
+    margin-top: -10px;
+}
+.userName{
+    margin-left: 850px;
+    margin-top: 10px;
+}

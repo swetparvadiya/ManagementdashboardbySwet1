@@ -1,0 +1,80 @@
+
+.sidebar {
+  width: 250px;
+  border-right: 1px solid #dbdbdb;
+}
+
+.sidebar .sidebarHeader {
+  border-bottom: 1px solid #dbdbdb;
+}
+.sidebar .sidebarHeader .sidebarHeaderContent {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 32px 0px 32px 0px;
+}
+.sidebar .sidebarHeader .sidebarHeaderContent .sidebarContent {
+  display: flex;
+}
+.sidebar
+  .sidebarHeader
+  .sidebarHeaderContent
+  .sidebarContent
+  .sidebarHeaderContentText {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #0d062d;
+  padding-left: 11px;
+}
+
+.sidebar .sidebarMenu .sidebarHome,
+.sidebarTasks,
+.sidebarSettings,
+.sidebarMembers {
+  display: flex;
+  margin-left: 24px;
+  margin-right: 20px;
+}
+.sidebar .sidebarMenu  {
+  margin-top: 33px;
+}
+.sidebar .sidebarMenu .sidebarTasks {
+  margin-top: 79px;
+}
+
+.sidebar .sidebarMenu .sidebarMembers {
+  margin-top: 15px;
+}
+
+.sidebar .sidebarMenu .sidebarSettings {
+  margin-top: 15px;
+}
+
+.sidebar .sidebarMenu .sidebarLine {
+  width: 224px;
+  height: 0px;
+  border: 1px solid #dbdbdb;
+  margin: 34px 13px 30px 13px;
+}
+
+.sidebar .sidebarMenu .sidebarMenuContentText {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #787486;
+  margin-left: 15px;
+}
+.sidebarMenuContentText{
+    margin-top: 4px;
+}
+.sidebar .sidebarProjects {
+  display: flex;
+  margin-left: 22px;
+}
+
+
+
+
+
+

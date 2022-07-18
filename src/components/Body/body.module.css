@@ -1,0 +1,81 @@
+.project{
+margin-top: 20px;
+  font-size: x-large;
+  display: flex;
+}
+.line{
+  display: flex;
+  font-size: larger;
+  justify-content: end;
+  margin-top: -30px;
+  margin-right: 20px;
+}
+.filtersection{
+  display: flex;
+}
+.filter{
+  display: flex;
+  border: 1px solid #787486;
+  border-radius: 6px;
+  width: 120px;
+  margin-top: 10px;
+  padding: 2px;
+  margin-right: 15px;
+  margin-bottom: 40px;
+}
+.filtericonimage{
+  margin-right: 15px;
+  margin-left: 5px;
+}
+.downarrowimage{
+  margin-left: 10px;
+}
+.filterword{
+  margin-top: 18px;
+}
+
+.onprogressHeader {
+  display: flex;
+  align-items: center;
+  padding: 28px 140px 24px 20px;
+}
+
+.onprogressdot {
+  height: 8px;
+  width: 8px;
+  background: #ffa500;
+  border-radius: 50%;
+  margin-right: 8px;
+}
+
+.onprogresstext {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #0d062d;
+  margin-right: 18px;
+}
+
+.onprogresslength {
+  background: #e0e0e0;
+  border-radius: 70%;
+  padding: 3px 7px 3px 5px;
+}
+
+.onprogressline {
+  width: 314px;
+  height: 0px;
+  background: #800080;
+  border: 3px solid #ffa500;
+  margin: 0px 20px 0px 20px;
+}
+.im{
+  width: 130px;
+  margin-left: 10px;
+}.in{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.inv{
+  margin-top: 10px;
+}
